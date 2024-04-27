@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/Fuo68avzOgeTqwae2ymqGQVvW7T3tgZVq8m/r1k1HkuLkxjeD5DvCbau06lTGcoU0KEbznbEi+8KAkXNHEwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nuget.frameworks\\6.9.1\\nuget.frameworks.6.9.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.support\\4.20.0\\selenium.support.4.20.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.webdriver\\4.20.0\\selenium.webdriver.4.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}
